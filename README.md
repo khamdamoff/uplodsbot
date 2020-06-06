@@ -29,6 +29,11 @@ cp sample_config.py config.py
 --- EDIT config.py values appropriately ---
 python bot.py
 ```
+
+##deoloy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/khamdamoff/uplodsbot)
+
+
 ## Our Telegram Channel and Group
 
 * [TG Bots Updates](https://telegram.dog/TGBotsz)
